@@ -1,0 +1,2 @@
+# TestClinetForServer
+为测试Server创建的客户端程序，也是客户端通信部分代码的示例
